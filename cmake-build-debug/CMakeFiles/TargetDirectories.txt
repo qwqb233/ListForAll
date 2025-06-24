@@ -1,3 +1,4 @@
 D:/clionproject/ListForAll/cmake-build-debug/CMakeFiles/ListForAll.dir
+D:/clionproject/ListForAll/cmake-build-debug/CMakeFiles/example.dir
 D:/clionproject/ListForAll/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/clionproject/ListForAll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
